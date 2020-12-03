@@ -31,7 +31,7 @@ The plugin defines the hook `global_media.site_id` to set an ID for the network 
 * Download the plugin as zip, use a clone of the repo or use Composer, see below
 * Install the plugin in your environment, recommend as [Must Use plugin](https://codex.wordpress.org/Must_Use_Plugins), also here a small [hint](https://github.com/bueltge/must-use-loader) for an helping solution [Must Use Loader](https://github.com/bueltge/must-use-loader).
 * Set the side ID for the Global Mediathek, see above the description to change them inside the source or use the hook.
-* Active the plugin for the hole network
+* Active the plugin for the whole network
 
 #### Composer
 The plugin is also available as [Composer package](https://packagist.org/packages/bueltge/multisite-global-media).
